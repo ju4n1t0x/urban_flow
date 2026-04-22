@@ -1,12 +1,29 @@
-- Día 1:
-En el primer dia de trabajo hemos implementado el ***ejercicio 1***, en donde realizamos la estructura base del proyecto y la sincronización con el repositorio remoto en github, además de la creación
-de la rama Sprint_1 sobre la cual iremos trabajando.
-Como parte de esta solución se decidió implementar dentro de las variables del entorno de sistema de colab un TOKEN_GIT el cual utilizaremos improtando user.data from google.colab
-para no exponer toekns key publicamente en el repositorio.
-Además hemos creado el archivo README.md en donde se encuentra toda la descripción y ejercicios del Sprint_1. Y el archivo CHANGELOG.md en donde se dejara constancia
-de todos los cambios realizados día a día en el Sprint_1.
+# CHANGELOG
 
-También avanzamos con el ***ejercicio 2*** en el cual se nos pedía descargar el dataset "speeding_fines", realizamos el analisis exploratorio planteado en el Sprint_1.
-Verificamos la estructura y los datos que contiene el dataset, ademas de crear la variable speeding_fines con la cual lo manipularemos a traves del colab. Y contamos también los valores nulos.
+- Día 1:
+
+En el primer día de trabajo hemos implementado el ejercicio 1, en donde realizamos la estructura base del proyecto y la sincronización con el repositorio remoto en github, además de la creación de la rama Sprint_1 sobre la cual iremos trabajando.
+
+Como parte de esta solución se decidió implementar dentro de las variables del entorno de sistema de colab un TOKEN_GIT el cual utilizaremos importando user.data desde google.colab para no exponer tokens key publicamente en el repositorio.
+
+Además hemos creado el archivo README.md en donde se encuentra toda la descripción y ejercicios del Sprint_1. Y el archivo CHANGELOG.md en donde se dejara constancia de todos los cambios realizados día a día en el Sprint_1.
+
+También avanzamos con el ejercicio 2 en el cual se nos pedía descargar el dataset "speeding_fines", realizamos el análisis exploratorio planteado en el Sprint_1. Verificamos la estructura y los datos que contiene el dataset, además de crear la variable speeding_fines con la cual lo manipularemos a través del colab. Y contamos también los valores nulos.
+
 
 - Día 2:
+
+En el segundo día de trabajo implementamos el ejercicio 3, enfocado en la limpieza y normalización del dataset "speeding_fines".
+
+Se realizaron las siguientes tareas:
+- Normalización de fechas al formato YYYY-MM-DD.
+- Normalización de horas al formato 24hs.
+- Limpieza de ubicaciones (sin caracteres especiales y en mayúsculas).
+- Limpieza de patentes y manejo de valores inválidos con NA.
+- Eliminación de registros con valores nulos en columnas relevantes.
+- Detección y tratamiento de outliers (IQR).
+- Creación de columnas exceso_velocidad_real y exceso_velocidad.
+- Filtrado de infracciones reales (exceso_velocidad > 0).
+- Guardado del dataset limpio.
+
+- Día 3:
