@@ -27,3 +27,19 @@ Se realizaron las siguientes tareas:
 - Guardado del dataset limpio.
 
 - Día 3:
+
+  En este dia de trabajo realizamos la implementacion de ejercicio 4 del Sprint_1. Se realizaron las siguientes tareas:
+
+  - Definir una clase FineAnalyzer que cumpla con las siguientes funcionalidades:
+
+    - Reciba el DataFrame limpio como argumento de inicialización.
+
+    - Encapsule correctamente los datos.
+
+    - Implemente métodos para:
+      - Ranking de las patentes mas multadas (top 5).
+      - Ranking de los horarios donde se producen mas multas (top 5).
+      - Exceso promedio de velocidad.
+      - Exceso real promedio de velocidad .
+      - Contabilizar la cantidad de multas por cada  ubicación.
+  
