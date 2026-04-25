@@ -43,3 +43,24 @@ Se realizaron las siguientes tareas:
       - Exceso real promedio de velocidad .
       - Contabilizar la cantidad de multas por cada  ubicación.
   
+    En este dia de trabajo realizamos la implementacion de ejercicio 5 del Sprint_1. Se realizaron las siguientes tareas:
+
+    - Ranking de las 10 patentes más reincidentes ordenadas de mayor a menor.
+    - Mostrar el porcentaje de infracciones por hora en un gráfico de torta.
+    - Mostrar la cantidad de infracciones por mes en un gráfico de barras horizontal ordenado de mayor a menor.
+    - Mostrar en un gráfico de líneas de los excesos de velocidad agrupados por la hora 00:00.
+    - Mostrar en un gráfico de líneas de los excesos de velocidad agrupados por la fecha 1932-01-01.
+    
+    Ademas realizamos una correccion en la limpieza de la columna fecha en data/interim/speeding_fines.csv, debido a que estabamos persitiendo un error de formato.
+    
+    - Dia 4:
+    En este dia de trabajo realizamos la implementacion de ejercicio 5 del Sprint_1. Se realizaron las siguientes tareas:
+
+    - Ranking de las 10 patentes más reincidentes ordenadas de mayor a menor.
+    - Mostrar el porcentaje de infracciones por hora en un gráfico de torta.
+    - Mostrar la cantidad de infracciones por mes en un gráfico de barras horizontal ordenado de mayor a menor.
+    - Mostrar en un gráfico de líneas de los excesos de velocidad agrupados por la hora 00:00.
+    - Mostrar en un gráfico de líneas de los excesos de velocidad agrupados por la fecha 1932-01-01.
+    
+    Ademas realizamos una correccion en la limpieza de la columna fecha en data/interim/speeding_fines.csv, debido a que estabamos persitiendo un error de formato.
+    
