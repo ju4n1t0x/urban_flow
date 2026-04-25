@@ -64,3 +64,12 @@ Se realizaron las siguientes tareas:
     
     Ademas realizamos una correccion en la limpieza de la columna fecha en data/interim/speeding_fines.csv, debido a que estabamos persitiendo un error de formato.
     
+      Dia 5:
+
+      - En este dia de trabajo realizamos la implementacion de ejercicio 6 del Sprint_1. Se realizaron las siguientes tareas:
+
+      - Mostrar el porcentaje de infracción que se produjeron en la fecha 1932-01-01.
+      - Mostrar el porcentaje de infracción que se produjeron en la hora 00:00.
+
+      Tomamos como decisión ademas utilizar gráficos de torta para hacer una presentación visual de las variabes calculadas
+      
