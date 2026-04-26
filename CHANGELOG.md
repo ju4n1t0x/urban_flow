@@ -73,3 +73,19 @@ Se realizaron las siguientes tareas:
 
       Tomamos como decisión ademas utilizar gráficos de torta para hacer una presentación visual de las variabes calculadas
       
+      Dia 6:
+
+      - Redaccion de conclusion
+      - Formateo de colab con indentacion a dos espacios y segun especificaciones de pep8
+      - Control y Analisis de ejecucion
+      - Correccion de formato en hora de archivo speeding_fines
+
+      
+      Dia 6:
+
+      - Redaccion de conclusion
+      - Formateo de colab con indentacion a dos espacios y segun especificaciones de pep8
+      - Control y Analisis de ejecucion
+      - Correccion de formato en hora de archivo speeding_fines
+
+      
