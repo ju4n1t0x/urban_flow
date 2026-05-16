@@ -1,0 +1,10 @@
+
+.dvc/cache/
+.dvc/tmp/
+.dvc/config.local
+data/raw/imgs/
+
+.dvc/cache/
+.dvc/tmp/
+.dvc/config.local
+data/raw/imgs/
