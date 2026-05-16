@@ -2,4 +2,4 @@
     remote = supabase
 ['remote "supabase"']
     url = s3://images-datasets
-    endpointurl = https://xmlhdgazwakyjtvlbfhr.supabase.co/storage/v1/s3
+    endpointurl = https://xmlhdgazwakyjtvlbfhr.storage.supabase.co/storage/v1/s3
