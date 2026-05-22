@@ -1,5 +1,7 @@
 [core]
-    remote = supabase
+    remote = supabase_public
 ['remote "supabase"']
     url = s3://images-datasets
     endpointurl = https://xmlhdgazwakyjtvlbfhr.storage.supabase.co/storage/v1/s3
+['remote "supabase_public"']
+    url = https://xmlhdgazwakyjtvlbfhr.supabase.co/storage/v1/object/public/images-datasets
